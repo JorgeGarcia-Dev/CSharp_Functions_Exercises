@@ -1,0 +1,15 @@
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/bin/Debug/net7.0/funciones4
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/bin/Debug/net7.0/funciones4.deps.json
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/bin/Debug/net7.0/funciones4.runtimeconfig.json
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/bin/Debug/net7.0/funciones4.dll
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/bin/Debug/net7.0/funciones4.pdb
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/obj/Debug/net7.0/funciones4.csproj.AssemblyReference.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/obj/Debug/net7.0/funciones4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/obj/Debug/net7.0/funciones4.AssemblyInfoInputs.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/obj/Debug/net7.0/funciones4.AssemblyInfo.cs
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/obj/Debug/net7.0/funciones4.csproj.CoreCompileInputs.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/obj/Debug/net7.0/funciones4.dll
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/obj/Debug/net7.0/refint/funciones4.dll
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/obj/Debug/net7.0/funciones4.pdb
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/obj/Debug/net7.0/funciones4.genruntimeconfig.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones4/obj/Debug/net7.0/ref/funciones4.dll

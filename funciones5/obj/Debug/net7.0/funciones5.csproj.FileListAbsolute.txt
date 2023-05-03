@@ -1,0 +1,15 @@
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/bin/Debug/net7.0/funciones5
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/bin/Debug/net7.0/funciones5.deps.json
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/bin/Debug/net7.0/funciones5.runtimeconfig.json
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/bin/Debug/net7.0/funciones5.dll
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/bin/Debug/net7.0/funciones5.pdb
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/obj/Debug/net7.0/funciones5.csproj.AssemblyReference.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/obj/Debug/net7.0/funciones5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/obj/Debug/net7.0/funciones5.AssemblyInfoInputs.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/obj/Debug/net7.0/funciones5.AssemblyInfo.cs
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/obj/Debug/net7.0/funciones5.csproj.CoreCompileInputs.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/obj/Debug/net7.0/funciones5.dll
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/obj/Debug/net7.0/refint/funciones5.dll
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/obj/Debug/net7.0/funciones5.pdb
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/obj/Debug/net7.0/funciones5.genruntimeconfig.cache
+/Users/georgegarcia/Documents/C#/ejerciciosFunciones/funciones5/obj/Debug/net7.0/ref/funciones5.dll
