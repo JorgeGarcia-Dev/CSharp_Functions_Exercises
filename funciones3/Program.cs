@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Desarrolla un programa que sume los valores de dos números enteros
+ingresados por el usuario y muestre el resultado por pantalla.
+*/
+
+using System;
 
 namespace funciones3
 {

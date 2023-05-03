@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+Desarrolla un programa que, dado un número entero, determine si es par, impar o igual.
+*/
+
+using System;
 
 namespace funciones2
 {

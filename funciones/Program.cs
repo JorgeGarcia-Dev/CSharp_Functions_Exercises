@@ -1,5 +1,5 @@
 ﻿/*
-Uso de funciones dentro cd C#
+Uso de funciones dentro de C#
 */
 
 using System;
